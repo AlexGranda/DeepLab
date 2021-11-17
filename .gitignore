@@ -121,3 +121,4 @@ venv.bak/
 # mkdocs documentation
 /site
 
+.DS_STORE
